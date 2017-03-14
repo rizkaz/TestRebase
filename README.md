@@ -288,12 +288,12 @@ Commit logs on Github
 
 New logs
 
-![Github commit history new](/img/commit-log-new.png)
+![Github commit history new](./img/commit-log-new.png)
 
 
 Old logs 
 
-![Github commit history old](/img/commit-log-old.png)
+![Github commit history old](./img/commit-log-old.png)
 
 
 To squash/change all commits to the root, use the `--root` flag in `rebase`
