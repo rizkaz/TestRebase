@@ -8,6 +8,7 @@ It is possible to change github repository history and logs after making a push 
 * files with sensitive information
 
 **WARNING: It is not recommended to change commit history of a shared repository. Doing so will cause problems for other users.** 
+[**Link To Git Cheat Sheet**](./GitCheatSheet)
 
 List the commit log
 
